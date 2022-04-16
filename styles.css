@@ -1,0 +1,76 @@
+body {color: pink; background-color: black;
+      text-align: center;
+      font-family: Satisfy;
+    }
+
+
+.circular {border-radius: 50%}
+
+
+h1 {
+  font-size: 60px;
+  font-family: 'Satisfy', cursive;
+}
+
+h2 {
+  font-size: 40px;
+  font-family: 'Libre Baskerville', serif;
+}
+
+.letra_negra {color: black;}
+
+h3 {
+  font-size:50px;
+  font-family: 'Square Peg', cursive;
+}
+
+    p {
+  font-size:25px;
+  font-family: 'Inter', sans-serif, cursive;
+  font-style: italic;
+  font-weight: bold;
+}
+.contenedor-superior{
+  background-color: #A8EBFF;
+  position: relative;
+  line-height:70%;
+  padding-top: 100px}
+
+.contenedor-medio{
+  position: relative;
+  line-height:70%;
+  padding-top: 100px
+}
+
+.contenedor-inferior {
+  background-color: #A8EBFF;
+  position: relative;
+  line-height:70%;
+  padding-bottom: 100px}
+
+
+.subrayado {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.info_links {
+  font-size: 30px;
+  font-style: normal;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
